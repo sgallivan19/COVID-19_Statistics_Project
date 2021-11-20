@@ -1,2 +1,3 @@
 # COVID-19_Statistics_Project
-A collaborative research project on the COVID-19 pandemic
+A collaborative research project on the COVID-19 pandemic. 
+In this project, my team used statistical techniques in SAS to examine COVID-19 population adjusted parameters in Asia, Africa and Europe. We incorporated GDP per capita and Human Development Index (HDI) data to compare the relationship between HDI/GDP level, continent and death/case rate. Our analysis consisted of descriptive and visualization tools such as boxplots and  histograms as well as inferential techiques such as linear regresion modeling. Our results illustrate that COVID-19 case and death rates by country have been signifcantly different. These case and death rate differences between countries are correlated by continent, HDI and GDP per capita.  
